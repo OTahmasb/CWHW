@@ -7,5 +7,5 @@ int calculate(int a, int b){
 
 int pow2(int a){
 	
-	return a*a;
+	return a * a;
 }
